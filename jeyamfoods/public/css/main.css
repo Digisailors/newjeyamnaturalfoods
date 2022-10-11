@@ -4208,8 +4208,8 @@ div.ppt {
 
 
 [class*="col-"] {
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: 1px;
+	margin-bottom: 1px;
 }
 
 [class*="_0"] [class*="col-"],
